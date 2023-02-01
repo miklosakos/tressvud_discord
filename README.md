@@ -1,2 +1,1 @@
-# tressvud_discord
-trashvod discord video ertesito bot
+kell: python3.10, requests es discord.py
